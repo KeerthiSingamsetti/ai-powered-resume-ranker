@@ -1,0 +1,10 @@
+We are hiring a Senior Data Scientist.
+
+Requirements:
+- 3+ years experience in Machine Learning and NLP
+- Proficient in Python, TensorFlow, PyTorch, Scikit-learn
+- Experience with AWS, Docker, and Git
+- Strong communication and leadership skills
+- Knowledge of SQL and data pipelines
+- Deep Learning experience preferred
+- Agile and Scrum team experience
